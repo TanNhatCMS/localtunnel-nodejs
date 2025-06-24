@@ -109,7 +109,7 @@ Clients in other languages
 
 _go_ [gotunnelme](https://github.com/NoahShen/gotunnelme)
 
-_go_ [go-localtunnel](https://github.com/localtunnel/go-localtunnel)
+_go_ [go-localtunnel](https://github.com/TanNhatCMS/localtunnel-go)
 
 _C#/.NET_ [localtunnel-client](https://github.com/angelobreuer/localtunnel-client)
 
@@ -117,7 +117,7 @@ _Rust_ [rlt](https://github.com/kaichaosun/rlt)
 
 ## server
 
-See [localtunnel/server](//github.com/localtunnel/server) for details on the server that powers localtunnel.
+See [localtunnel/server](https://github.com/TanNhatCMS/localtunnel-server) for details on the server that powers localtunnel.
 
 ## License
 
