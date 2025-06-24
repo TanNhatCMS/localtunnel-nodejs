@@ -1,3 +1,6 @@
+# 2.0.3 (2025-06-25)
+
+- Upgrade dependencies
 # 2.0.2 (2021-09-18)
 
 - Upgrade dependencies
